@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+/* element selector  */
+
+/* universal selector  */
+
+/* class selector  */
+.para{
+    color: green;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+/* id selector  */
+#para2{
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: "Winky Rough", sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: justify;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+span{
+    color: red;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    text-transform: lowercase;
+    text-decoration: overline;
+}
+/* font weight range - 100 - 900  */
+.head{
+    font-weight: 900;
+    font-style: italic;
+    text-align: justify;
+    text-decoration: dashed;
+    text-transform: capitalize;
+}
+
