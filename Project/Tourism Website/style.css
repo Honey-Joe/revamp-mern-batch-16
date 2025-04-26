@@ -5,3 +5,11 @@
     background-image: url("https://ik.imagekit.io/HoneyJoe/Mern%20Batch%2016/Tourism%20Project/sea-ocean?updatedAt=1745248637774");
     
 }
+
+.bg-places-container {
+    background-image: url("https://ik.imagekit.io/HoneyJoe/Mern%20Batch%2016/Tourism%20Project/taj-mahal?updatedAt=1745248663911");
+    width: 300px;
+    height: 626px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
