@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.header-section-bg{
+    background-image: url("https://ik.imagekit.io/HoneyJoe/Mern%20Batch%2016/Food%20Store/foodmunch-banner-bg.png?updatedAt=1745939013497");
+
+    background-size: cover;
+    
+    
+
+}
